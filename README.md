@@ -1,4 +1,4 @@
-# mateo-max
+# repositorio 1 de mateo en el curso de git
 primer tepo creado en github
 
 ## Descripcion
